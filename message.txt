@@ -1,0 +1,6 @@
+Hi ${PERSON_NAME},
+
+This is auto-generated mail. Don't reply to this mail.
+
+Regards,
+Vishesh Shah
